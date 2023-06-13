@@ -1,0 +1,158 @@
+/*kodluyoruz css kodları*/
+
+
+
+.purple{
+    color: rgb(54, 141, 255); 
+   margin: -6px;
+   
+    
+text-shadow: 3px 2px 2px rgb(197, 197, 197);
+}
+
+.purple1{
+    margin: -4px;
+
+    
+   color: red;
+   text-shadow: 3px 2px 2px rgb(197, 197, 197);
+}
+.purple2{
+    margin: -4px;
+    color: yellow;
+    text-shadow: 3px 2px 2px rgb(197, 197, 197);
+    
+
+}
+
+.purple3{
+    margin: -4px;
+   
+    color:rgb(54, 141, 255); ;
+    text-shadow: 3px 2px 2px rgb(197, 197, 197);
+
+}
+
+.purple4{
+    margin: -5px;
+    color: rgb(45, 219, 45);
+    text-shadow: 3px 2px 2px rgb(197, 197, 197);
+
+}
+
+.purple5{
+    margin: -5px;
+    color: red;
+    text-shadow: 3px 2px 2px rgb(197, 197, 197);
+
+
+}
+
+.purple6{
+    margin: -5px;
+
+    color: rgb(54, 141, 255); ;
+    text-shadow: 3px 2px 2px rgb(197, 197, 197);
+}
+
+.purple7{
+    background-color:rgb(241, 241, 241);
+   
+}
+
+.purple8{
+    height: 1px;
+    width: 300px;
+background-color: white;
+margin:auto ;
+margin-bottom: 5px;
+padding: 10px;
+border:1px solid black;
+
+}
+
+.beta{
+    font-size: 30px;
+position: fixed;
+top: 100px;
+right: 530px;
+    color: darkgrey;
+}
+
+
+
+
+
+
+
+
+.red1{
+   
+    background-color:rgb(235, 235, 235);
+    margin: 2px;
+    padding: 15x;
+    border: 1px solid black;
+}
+
+
+.red2{
+    background-color: rgb(55,226,220);
+    width: 750px;
+    line-height: 5px;
+    padding-top:5px;
+   
+
+}
+.red3{
+    justify-content: space-between;
+    background-color: rgb(46, 219, 214);
+    line-height: 5px;
+  width: 350px;
+  margin-left:1px;
+  margin-right: 1px;
+}
+
+
+
+.red5{
+    background-color: rgb(45, 204, 199);
+    width: 800px;
+    line-height: 1px;
+}
+
+.red4{
+    display: flex;
+    justify-content: space-between;
+margin: 1px 1px 1px 1px;
+    height: 120px;
+}
+
+.red6{
+    text-align:left;
+  padding: 10px;
+    width: 200px;
+    height: 1px;
+    background-color: white;
+border:1px solid black;
+margin: auto;
+
+}
+
+.red7{
+    margin:2px;
+    padding: 3px;
+    width: 70px;
+    height:20px;
+    background-color: white;
+border:1px solid black;
+}
+
+.beta3{
+    
+    position: fixed;
+    bottom: 0px;
+    text-align: center;
+}
+
+
+
