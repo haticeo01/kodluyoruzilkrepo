@@ -1,0 +1,51 @@
+/*site background*/
+
+.tümsayfa{
+    background-color: #E9ECEF;
+}
+
+
+/*navbar baslangic css*/
+
+.navbar{
+    color: rgb(153, 43, 43);
+}
+.navbar2{
+    color: white;
+    margin:5px;
+}
+
+.navbar3{
+color: rgb(207, 207, 207);
+margin:5px;
+}
+/*navbar bitiş*/
+
+/*anasayfa başlangıç css*/
+
+.content{
+    margin: auto;
+}
+
+.all{
+    margin-top: 60px;
+}
+
+.buton{
+   color: white;
+    border: solid blue 1px;
+    border-radius: 5px;
+    background-color: rgb(0,127,255);
+    width: 100px;
+    height: 40px;
+    margin: auto;
+    padding: 7px;
+}
+
+.renk{
+    color: blueviolet;
+}
+
+.renk2{
+    color: blueviolet;
+}
